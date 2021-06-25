@@ -1,0 +1,37 @@
+.container {
+    width: 500px;
+    height: 300px;
+    background: rgb(215, 243, 252);
+    border: 1px solid blanchedalmond;
+    text-align: center;
+    margin: 120px 0 0 420px;
+}
+.first {
+    padding-top: 25px;
+}
+button {
+    margin-right: 5px;
+    font-size: 18px;
+    margin-top: 40px;
+}
+.increase{
+    /* font-size: 20px; */
+    border: 1px red solid;
+    border-radius: 5px;
+}
+.decrease{
+    /* font-size: 20px; */
+    border: 1px red solid;
+    border-radius: 5px;
+}
+.reset {
+    /* font-size: 20px; */
+    border: 1px red solid;
+    border-radius: 5px;
+}
+#counter {
+    border: 1px solid lightblue;
+    font-size: 30px;
+    padding: 15px;
+    margin: 12px;
+}
